@@ -31,7 +31,6 @@ animateCSS('refresh-btn', 'bounceIn', 0);
 animateCSS('heart-icon', 'heartBeat', 0);
 
 
-/* Balloon animation from https://codepen.io/Jemimaabu/pen/vYEYdOy */
 function random(num) {
   return Math.floor(Math.random() * num)
 }
